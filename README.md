@@ -42,7 +42,7 @@
 - [Other Aggregators](#other-aggregators)
 - [Cloud Solutions](#cloud-solutions)
 - [Contribute](#contribute)
-- [License](license)
+- [License](#license)
 
 
  **[`^        back to top        ^`](#)**
