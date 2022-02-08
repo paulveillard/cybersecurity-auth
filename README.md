@@ -84,7 +84,7 @@
 * [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
 * [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
 
-## Authentication Code
+## Authentication Development
 
 ### <a name="authN-cSharp"></a>C#
 
