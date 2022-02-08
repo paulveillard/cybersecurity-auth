@@ -9,7 +9,8 @@
    - [SSO](#sso-single-sign-on)
    - [OAuth](#oauth)
    - [SAML](#saml)
-   - 
+   - [Two-factor authentication](#two-factor-authentication)
+   - [Passwordless authentication](#passwordless-authentication)
 
 - [Authentication Development](#authentication-development)
 	- [C#](#authN-cSharp)
@@ -118,7 +119,13 @@
 
 - [Authlogic](https://github.com/binarylogic/authlogic) - Clean, simple, and unobtrusive Ruby authentication solution.
 
+
 ## Authorization
+* [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) - wiki page about RBAC
+* [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
+* [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
+
+## Authorization Code
 
 ### <a name="authZ-android"></a>Android
 
