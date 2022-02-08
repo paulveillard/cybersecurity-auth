@@ -127,7 +127,7 @@
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
 * [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
 
-## Authorization Code
+## Authorization Development
 
 ### <a name="authZ-android"></a>Android
 
@@ -213,6 +213,43 @@
 - [Authorization Academy: A series of technical guides for building application authorization](https://www.osohq.com/academy)
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 
+
+## Identity & Access management (IAM)
+* [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
+* [IdentityServer](https://identityserver.io/) - .NET based IAM server
+* [ORY](https://www.ory.sh/) - Open Source Identity Infrastructure and Services (Go based)
+* [casbin](https://casbin.org/en/) - Go authorization library
+* [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
+* [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
+
+## Tools
+* [Step CLI](https://smallstep.com/cli/) - A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. 
+* [JWT DEBUGGER](https://jwt.ssotools.com/)  - A simple JWT decoder tool, that can help to verify the JWT and with the help of signature.
+
+## Other aggregators
+* [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
+* [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
+* [OAuth code libraries](https://oauth.net/code/)
+* [OIDC code libraries](https://openid.net/developers/libraries/)
+
+## Cloud solutions
+
+### Amazon Web Services (AWS)
+* [AWS IAM](https://aws.amazon.com/iam/) - Identity and Access Management for AWS
+* [AWS SSO](https://aws.amazon.com/single-sign-on/) - Centrally manage single sign-on (SSO) access to multiple AWS accounts
+* [Amazon Cognito](https://aws.amazon.com/cognito/) - SSO for business applications
+* [AWS Directory Service](https://aws.amazon.com/directoryservice/) - AD in the AWS Cloud
+* [AWS STS](https://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html) - AWS Security Token Service for temporary IAM tokens
+
+### Google Cloud Platform (GCP)
+* [Identity and authentication, the Google Cloud way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way) - Overview of Google approach to identity and access management
+
+### Microsoft Azure
+* [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) - Evolution of the Azure Active Directory
+
+
 ## Contribute
 
 PR is welcomed.
+
+## License
