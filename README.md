@@ -41,6 +41,7 @@
 - [Cloud Solutions](#cloud-solutions)
 - [Contribute](#contribute)
 - [License](license)
+- **[`^        back to top        ^`](#)**
 
 ## Authentication
 
@@ -83,6 +84,7 @@
 ### Passwordless authentication
 * [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
 * [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
+* **[`^        back to top        ^`](#)**
 
 ## Authentication Development
 
@@ -126,12 +128,15 @@
 ### <a name="authN-ruby"></a>Ruby
 
 - [Authlogic](https://github.com/binarylogic/authlogic) - Clean, simple, and unobtrusive Ruby authentication solution.
+- **[`^        back to top        ^`](#)**
 
 
 ## Authorization
 * [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) - wiki page about RBAC
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
 * [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
+
+**[`^        back to top        ^`](#)**
 
 ## Authorization Development
 
@@ -209,6 +214,7 @@
 - [Pundit](https://github.com/varvet/pundit) - Minimal authorization through OO design and pure Ruby classes.
 - [Casbin](https://github.com/CasbinRuby/casbin-ruby) - Authorization library that supports access control models like ACL, RBAC, ABAC in Ruby.
 - [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Authorization for Ruby on Rails.
+- **[`^        back to top        ^`](#)**
 
 ## Articles
 
@@ -219,6 +225,8 @@
 - [Authorization Academy: A series of technical guides for building application authorization](https://www.osohq.com/academy)
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard)
 
+**[`^        back to top        ^`](#)**
+
 
 ## Identity & Access management (IAM)
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
@@ -227,6 +235,8 @@
 * [casbin](https://casbin.org/en/) - Go authorization library
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
 * [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
+
+**[`^        back to top        ^`](#)**
 
 ## Tools
 * [Step CLI](https://smallstep.com/cli/) - A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. 
@@ -237,6 +247,8 @@
 * [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
 * [OAuth code libraries](https://oauth.net/code/)
 * [OIDC code libraries](https://openid.net/developers/libraries/)
+
+**[`^        back to top        ^`](#)**
 
 ## Cloud solutions
 
@@ -253,7 +265,7 @@
 ### Microsoft Azure
 * [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) - Evolution of the Azure Active Directory
 
-
+**[`^        back to top        ^`](#)**
 ## Contribute
 
 PR is welcomed.
