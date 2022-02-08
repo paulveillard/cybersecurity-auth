@@ -4,7 +4,7 @@
 
 [Authentication (aka AuthN)](https://en.wikipedia.org/wiki/Authentication) and [authorization (aka AuthZ)](https://en.wikipedia.org/wiki/Authorization) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
-## Table of Contents
+## `Table of Contents`
 - [Authentication](#authentication)
    - [SSO](#sso-single-sign-on)
    - [OAuth](#oauth)
@@ -45,9 +45,9 @@
 
  **[`^        back to top        ^`](#)**
 
-## Authentication
+## `Authentication`
 
-### SSO (Single-Sign-On)
+### `SSO (Single-Sign-On)`
 
 - [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
@@ -64,7 +64,7 @@
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 * [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
-### OAuth
+### `OAuth`
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
 * [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/) - OAuth implementation for Spring
 * [OAuth server for PHP](http://bshaffer.github.io/oauth2-server-php-docs/) - OAuth server for PHP
@@ -74,21 +74,21 @@
 * [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
 * [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 
-### SAML
+### `SAML`
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
 * [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
 * [SAMLTest](https://samltest.id/) SAML Testing service
 
-### Two-factor authentication
+### `Two-factor authentication`
 * [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
 
-### Passwordless authentication
+### `Passwordless authentication`
 * [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
 * [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
 * **[`^        back to top        ^`](#)**
 
-## Authentication Development
+## `Authentication Development`
 
 ### <a name="authN-cSharp"></a>C#
 
@@ -252,30 +252,30 @@
 
 **[`^        back to top        ^`](#)**
 
-## Cloud solutions
+## `Cloud solutions`
 
-### Amazon Web Services (AWS)
+### `Amazon Web Services (AWS)`
 * [AWS IAM](https://aws.amazon.com/iam/) - Identity and Access Management for AWS
 * [AWS SSO](https://aws.amazon.com/single-sign-on/) - Centrally manage single sign-on (SSO) access to multiple AWS accounts
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - SSO for business applications
 * [AWS Directory Service](https://aws.amazon.com/directoryservice/) - AD in the AWS Cloud
 * [AWS STS](https://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html) - AWS Security Token Service for temporary IAM tokens
 
-### Google Cloud Platform (GCP)
+### `Google Cloud Platform (GCP)`
 * [Identity and authentication, the Google Cloud way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way) - Overview of Google approach to identity and access management
 
-### Microsoft Azure
+### `Microsoft Azure`
 * [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) - Evolution of the Azure Active Directory
 
 **[`^        back to top        ^`](#)**
-## Contribute
+## `Contribute`
 
 PR is welcomed.
 
 
 
 **[`^        back to top        ^`](#)**
-## License
+## `License`
 
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
