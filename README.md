@@ -30,14 +30,49 @@
 
 - [Articles](#articles)
 
-## SSO (Single-Sign-On), IAM (Identity Access Management)
+## Authentication
+
+### SSO (Single-Sign-On), IAM (Identity Access Management)
 
 - [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [ZITADEL](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management platform for secure authentication, authorization and identity management.
+- [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) - wiki page about SSO
+* [Central Authentication Service (CAS)](https://github.com/apereo/cas) - Open Source Enterprise Single Sign On
+* [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
+* [Auth0](https://auth0.com/) - Identity and Access Management as a service
+* [Cloud-IAM](https://www.cloud-iam.com) - Keycloak IAM as a Service
+* [LoginRadius](https://www.loginradius.com/) - Identity and Access Management as a service
+* [FusionAuth](https://fusionauth.io/) - Identity and Access Management, either a service or self-hosted
+* [PAC4J](http://www.pac4j.org/) - The security library for Java
+* [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
+* [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
-## Authentication
+### OAuth
+* [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
+* [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/) - OAuth implementation for Spring
+* [OAuth server for PHP](http://bshaffer.github.io/oauth2-server-php-docs/) - OAuth server for PHP
+* [ORY Hydra](https://www.ory.sh/hydra/) - Go based OAuth and OIDC server
+* [JSON Web Tokens](http://jwt.io/) - All you need to know about JWT
+* [OAuth+JWT in microservices](https://www.youtube.com/watch?v=BdKmZ7mPNns) - Good video on how to use tokens in microservices
+* [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
+* [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
+
+### SAML
+* [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
+* [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
+* [SAMLTest](https://samltest.id/) SAML Testing service
+
+### Two-factor authentication
+* [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
+* [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
+
+### Passwordless authentication
+* [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
+* [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
+
+## Authentication Code
 
 ### <a name="authN-cSharp"></a>C#
 
