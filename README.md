@@ -5,10 +5,10 @@
 [Authentication (aka AuthN)](https://en.wikipedia.org/wiki/Authentication) and [authorization (aka AuthZ)](https://en.wikipedia.org/wiki/Authorization) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
 ## Table of Contents
+- [Authentication]
+   - [SSO](#sso)
 
-- [SSO](#sso)
-
-- [Authentication](#authentication)
+- [Authentication Development](#authentication-development)
 	- [C#](#authN-cSharp)
 	- [Golang](#authN-golang)
 	- [Java](#authN-java)
