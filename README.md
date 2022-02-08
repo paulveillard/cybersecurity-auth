@@ -34,7 +34,7 @@
 
 ## Authentication
 
-## SSO (Single-Sign-On), IAM (Identity Access Management)
+### SSO (Single-Sign-On)
 
 - [Casdoor](https://github.com/casdoor/casdoor) - UI-first centralized authentication / Single-Sign-On (SSO) platform supporting OAuth 2.0 / OIDC and SAML.
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
