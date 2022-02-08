@@ -35,6 +35,8 @@
 	- [Ruby](#authZ-ruby)
 
 - [Articles](#articles)
+- [Identity & Access Management]()
+- [Tools]
 
 ## Authentication
 
