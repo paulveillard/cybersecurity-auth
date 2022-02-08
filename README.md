@@ -20,7 +20,9 @@
 	- [Python](#authN-python)
 	- [Ruby](#authN-ruby)
 
-- [Authorization](#authorization)
+- [Authentication](#authentication)
+
+- [Authorization Code](#authorization-code)
 	- [Android](#authZ-android)
 	- [C#](#authZ-cSharp)
 	- [Golang](#authZ-golang)
