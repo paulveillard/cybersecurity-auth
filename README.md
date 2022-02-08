@@ -1,4 +1,6 @@
-# cybersecurity-auth
+# Authentication & Authorization & SSO Integration & IAM
+
+> An ongoing & curated collection of awesome  AuthN+Z software, libraries and frameworks, best guidelines and technical resources and cool stuff about Authentication & Authorization & SSO & IAM.
 
 [Authentication (aka AuthN)](https://en.wikipedia.org/wiki/Authentication) and [authorization (aka AuthZ)](https://en.wikipedia.org/wiki/Authorization) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
