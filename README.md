@@ -35,8 +35,12 @@
 	- [Ruby](#authZ-ruby)
 
 - [Articles](#articles)
-- [Identity & Access Management]()
-- [Tools]
+- [Identity & Access Management](#identity--access-management-iam)
+- [Tools](#tools)
+- [Other Aggregators](#other-aggregators)
+- [Cloud Solutions](#cloud-solutions)
+- [Contribute](#contribute)
+- [License](license)
 
 ## Authentication
 
