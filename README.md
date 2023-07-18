@@ -156,6 +156,7 @@
 
 ### <a name="authZ-golang"></a>Golang
 
+- [Aserto] (https://www.aserto.com) - Fine-grained access controls for cloud-native applications (based on Go). Support role, attribute, and relationship-based access controls.
 - [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 - [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Go.
 - [Ladon](https://github.com/ory/ladon) - SDK for access control policies: authorization for the microservice and IoT age.
