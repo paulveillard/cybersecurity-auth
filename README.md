@@ -5,8 +5,8 @@ An ongoing & curated collection of awesome  AuthN+Z software, software best prac
 
 [Authentication (aka AuthN)](https://en.wikipedia.org/wiki/Authentication) and [authorization (aka AuthZ)](https://en.wikipedia.org/wiki/Authorization) are both security measures. Authentication is the process of verifying who you are. Authorization is the process of verifying that you have access to something. Authorization occurs after successful authentication.
 
-Authorization 
-> Access priviledges granted to a user, program, or process 
+### Authorization 
+> Access priviledges granted to a user, program, or process or the act of granting those privileges.
 
 ![auth](https://github.com/paulveillard/cybersecurity-auth/blob/main/img/authentication-authorization.png)
 
